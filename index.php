@@ -10,7 +10,7 @@
 	***********************************************/	
 
 	include ('php/functions.php');
-  
+  //
 ?>
 <!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/<?php echo SITE_TYPE; ?>" lang="en" class="no-js">
