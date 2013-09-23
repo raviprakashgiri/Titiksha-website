@@ -64,7 +64,7 @@
                     <h2>Titiksha 2k13</h2>
                     <p>4th - 6th October 2013</p>
                 </div>
-
+                <div class='spiralContainer'><div class='spiral'></div></div>
 
 			</div>
 		</div><!-- /container -->
